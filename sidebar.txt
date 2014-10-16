@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aku:home|Door43 (aku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aku|d43-aku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aku/archive/master.zip|d43-aku.zip]]
+
+**Recent Changes**
+{{changes>ns = aku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aku|Ethnologue data]]
+
